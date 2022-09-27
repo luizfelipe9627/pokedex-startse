@@ -7,7 +7,7 @@
 Um site simples consumindo uma API que mostra 151 Pokemon's da geração antiga.
 
 ## 📑 Observação
-Projeto criado para ter a primeira experiencia com consumo de API.
+A parte de HTML e CSS já estava feito o projeto foi criado com o intuito de ter a primeira experiência com consumo de API utilizando JavaScript..
 
 ### <a href="https://luizfelipe9627-pokedex-startse.netlify.app">Acesse o site</a>
 
