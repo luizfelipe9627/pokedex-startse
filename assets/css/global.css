@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(to right, rgb(242, 238, 6), rgb(203, 18, 18));
+  color: white;
+  margin: 0;
+  font-family: rubik;
+}
+
+h1 {
+  text-align: center;
+  font-size: 54px;
+
+}
