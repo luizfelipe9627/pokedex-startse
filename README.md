@@ -1,7 +1,7 @@
 # Pokedex StartSe
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)             
 
-<img src="https://github.com/luizfelipe9627/pokedex-startse/blob/main/assets/image/pokedex-startse.gif" alt="Apresentação da Calculadora de IMC">
+<img src="https://github.com/luizfelipe9627/pokedex-startse/blob/main/assets/img/pokedex-startse.gif" alt="Apresentação da Calculadora de IMC">
 
 ## 📄 Descrição
 Um site simples consumindo uma API que mostra 151 Pokemon's da geração antiga.
